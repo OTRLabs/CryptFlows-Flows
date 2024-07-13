@@ -8,6 +8,8 @@ authors = [
 dependencies = [
     "rich>=13.7.1",
     "docker>=7.1.0",
+    "outlines>=0.0.46",
+    "python-dotenv>=1.0.1",
 ]
 requires-python = "==3.10.*"
 readme = "README.md"
